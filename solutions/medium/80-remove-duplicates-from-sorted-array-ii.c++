@@ -45,10 +45,3 @@ auto removeDuplicates2(vector<int>& nums) -> int
   }
   return nums.size();
 }
-
-int main()
-{
-  vector<int> test = { 0,0,1,1,1,1,2,3,3 };
-  auto i = removeDuplicates2(test);
-  return 0;
-}
