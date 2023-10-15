@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "2ee881a7d702676c",
+    "type": "split",
+    "children": [
+      {
+        "id": "570f033dfd49c8cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b195d849d21da6df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "range/analysis/all_of.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "230567c7bddcd200",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d6ed728b7d0d2e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891cf22c3580581c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c988854c0383cf8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b28f761868fe8e94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b76011be6e86af0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe1fb3c19e61c90c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68ab93f7a0df6874",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "range/analysis/all_of.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3dea4f6b2e127e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "range/analysis/all_of.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99463376775b231c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dcc67b6e8ffca806",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "range/analysis/all_of.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b195d849d21da6df",
+  "lastOpenFiles": [
+    "range/analysis/adjacent_find.md",
+    "Range analysis and comparison.md",
+    "range/analysis/all_of.md",
+    "range/analysis/find.md",
+    "range/analysis/search_n.md",
+    "range/analysis/search.md",
+    "range/analysis/find_first_of.md",
+    "range/analysis/find_end.md",
+    "range/analysis/mismatch.md",
+    "range/analysis/count.md",
+    "range/non-modifying/for_each.md",
+    "range/non-modifying",
+    "range/analysis/none_of.md",
+    "range/analysis/any_of.md",
+    "range/analysis",
+    "range",
+    "analysis/all_of.md",
+    "analysis"
+  ]
+}
