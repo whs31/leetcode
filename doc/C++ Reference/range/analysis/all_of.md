@@ -1,10 +1,10 @@
-# all_of, any_of, none_of
+# `all_of`, `any_of`, `none_of`
 #ranges #comparison #iterators
 
 ```cpp
-bool all_of(InputIterator first, InputIterator last, UnaryPredicate p)
-bool any_of(InputIterator first, InputIterator last, UnaryPredicate p)
-bool none_of(InputIterator first, InputIterator last, UnaryPredicate p)
+bool all_of(Iterator first, Iterator last, UnaryPredicate p)
+bool any_of(Iterator first, Iterator last, UnaryPredicate p)
+bool none_of(Iterator first, Iterator last, UnaryPredicate p)
 ```
 - Возвращает `true`, если предикат $p$ возвращает `true` для каждого элемента во множестве.
 - Возвращает `true`, если предикат $p$ возвращает `true` для любого из элементов во множестве.
@@ -25,15 +25,15 @@ false true false
 ```
 ###### Пример реализации
 ```cpp
-bool all_of(InputIterator first, InputIterator last, UnaryPredicate p) {
+bool all_of(Iterator first, Iterator last, UnaryPredicate p) {
 	return std::find_if_not(first, last, p) == last;
 }
 
-bool any_of(InputIterator first, InputIterator last, UnaryPredicate p) {
+bool any_of(Iterator first, Iterator last, UnaryPredicate p) {
 	return std::find_if(first, last, p) != last;
 }
 
-bool none_of(InputIterator first, InputIterator last, UnaryPredicate p) {
+bool none_of(Iterator first, Iterator last, UnaryPredicate p) {
 	return std::find_if(first, last, p) == last;
 }
 ```

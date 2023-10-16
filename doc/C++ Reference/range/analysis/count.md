@@ -1,4 +1,4 @@
-# count, count_if
+# `count`, `count_if`
 #ranges #comparison #iterators
 
 ```cpp

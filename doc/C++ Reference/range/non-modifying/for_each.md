@@ -1,4 +1,4 @@
-# for_each, for_each_n
+# `for_each`, `for_each_n`
 #ranges #transform #iterators
 
 ```cpp
