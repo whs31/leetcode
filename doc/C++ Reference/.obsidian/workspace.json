@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "range/analysis/all_of.md",
+                "file": "range/analysis/count.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "range/analysis/all_of.md",
+                "file": "range/analysis/count.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "range/analysis/all_of.md",
+                "file": "range/analysis/count.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "range/analysis/all_of.md"
+                "file": "range/analysis/count.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "b195d849d21da6df",
   "lastOpenFiles": [
-    "range/analysis/adjacent_find.md",
-    "Range analysis and comparison.md",
+    "range/non-modifying/for_each.md",
     "range/analysis/all_of.md",
+    "range/analysis/count.md",
     "range/analysis/find.md",
+    "Range analysis and comparison.md",
+    "range/analysis/adjacent_find.md",
     "range/analysis/search_n.md",
     "range/analysis/search.md",
     "range/analysis/find_first_of.md",
     "range/analysis/find_end.md",
     "range/analysis/mismatch.md",
-    "range/analysis/count.md",
-    "range/non-modifying/for_each.md",
     "range/non-modifying",
     "range/analysis/none_of.md",
     "range/analysis/any_of.md",
