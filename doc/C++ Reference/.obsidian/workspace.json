@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "570f033dfd49c8cd",
+        "id": "4627f64ed9c52621",
         "type": "tabs",
         "children": [
           {
-            "id": "b195d849d21da6df",
+            "id": "1547e53e08427354",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Range analysis and comparison.md",
+                "file": "Ranges and common algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Range analysis and comparison.md",
+                "file": "Ranges and common algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Range analysis and comparison.md",
+                "file": "Ranges and common algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Range analysis and comparison.md"
+                "file": "Ranges and common algorithms.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b195d849d21da6df",
+  "active": "1547e53e08427354",
   "lastOpenFiles": [
+    "common/swap.md",
+    "Ranges and common algorithms.md",
+    "common",
+    "range/transform.md",
     "range/analysis/find_end.md",
-    "Range analysis and comparison.md",
     "range/analysis/mismatch.md",
     "range/analysis/search.md",
     "range/analysis/search_n.md",
